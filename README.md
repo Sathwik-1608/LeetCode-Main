@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0076-minimum-window-substring) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
