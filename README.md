@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0049-group-anagrams) |
+| [0283-move-zeroes](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0002-add-two-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
