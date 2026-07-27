@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
