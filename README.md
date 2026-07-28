@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0283-move-zeroes) |
@@ -65,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
