@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sathwik-1608/LeetCode-Main/tree/master/0283-move-zeroes) |
 ## Binary Search
